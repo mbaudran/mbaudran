@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maël Baudran</h1>
-<h3 align="center">BI & Data Analytics Student | ML Builder | Barcelona</h3>
+<h3 align="center">BI & Data Analytics Student | Barcelona</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Barcelona-blue?style=flat-square" />
