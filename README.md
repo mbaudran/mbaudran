@@ -1,110 +1,109 @@
-<h1 align="center">Hi, I'm Maël Baudran</h1>
-<h3 align="center">BI & Data Analytics Student | Barcelona</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Barcelona-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/LaSalle_URL-BI_%26_Data_Analytics-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2nd_Year-green?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a5f&height=180&section=header&text=Ma%C3%ABl%20Baudran&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BI%20%26%20Data%20Analytics%20%7C%20Barcelona&descAlignY=58&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=3rd+Year+BI+%26+Data+Analytics+%40+LaSalle+Barcelona;Building+Mas~IA+%E2%80%94+automation+for+BCN+SMEs;Full-stack+dev+%7C+AI+agents+%7C+data+pipelines" alt="Typing SVG" />
 
-### About Me
-
-2nd year **Business Intelligence & Data Analytics** student at **LaSalle Barcelona**. I build production-grade ML pipelines, interactive dashboards, and AI-powered systems — with a focus on sports analytics and macroeconomic forecasting.
-
-- I'm currently working on **data portfolio projects** — ML models, dashboards, and time series forecasting
-- I'm learning **Advanced ML, Time Series Forecasting, AI Agent Systems**
-- Reach me at **maelfelix18@gmail.com**
-- Fun fact: **Rugby team captain** — leadership on and off the field
+</div>
 
 ---
 
-### Featured Projects
+### 👋 Sobre mí
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Fantasy League Optimizer**](https://github.com/mbaudran/Data-Portfolio/tree/main/fantasy-league-optimizer) | Champions League fantasy team optimizer using linear programming and predictive modeling | Python, PuLP, Dash, SQLite |
-| [**Sports Betting Analytics**](https://github.com/mbaudran/Data-Portfolio/tree/main/sports-betting-analytics) | ML-powered match prediction system with backtesting engine and value bet detection | XGBoost, scikit-learn, Dash |
-| [**BCRP Macro Analysis**](https://github.com/mbaudran/Data-Portfolio/tree/main/bcrp-analysis) | Time series forecasting of Peru's macroeconomic indicators using ARIMA/SARIMA | statsmodels, pmdarima, Dash |
+3rd year **Business Intelligence & Data Analytics** student at **LaSalle Barcelona**, where I'm also a **student ambassador and delegate**. I freelance for small Barcelona businesses building websites and automation workflows, and I'm currently exploring an offshore structure to formalize that work.
+
+- 🔭 Currently building **Mas~IA**, an automation & web brand for Barcelona SMEs, and a full-stack **Data Analyst learning platform** for a mentee
+- 🎓 Awaiting response on a **ServiceNow Business Analyst internship** at Zurich Insurance
+- ✈️ Heading to **Tilburg University** (NL) for an exchange semester, Jan 2027
+- 🌍 Multilingual — Spanish, French, English
+- 📫 Reach me at **maelfelix18@gmail.com**
 
 ---
 
-### Tech Stack
+### 🚀 Current Projects
 
-<p align="center">
+| Project | Description | Stack |
+|---|---|---|
+| [**Mas~IA**](https://mas-ia.vercel.app) | Freelance automation & web brand for Barcelona SMEs — sites and workflow automation | Next.js, Vercel, Make.com |
+| **Data Analyst Learning Platform** | Duolingo-style app for a mentee: 158-level curriculum, serverless backend, mentor dashboard, automated email notifications | Next.js, Vercel, Upstash Redis, Make.com |
+| [**Data Portfolio**](https://data-portfolio-puce.vercel.app) | BI & analytics portfolio — BCN air quality spatial analysis, DuckDB bronze/silver/gold pipeline | HTML/CSS/JS, DuckDB, Databricks |
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Data & ML**
+**Data & BI**
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Tools & Platforms**
+**Web & Automation**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Redis](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=for-the-badge&logo=redis&logoColor=black)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### Certifications
+### 🏆 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+![Power BI](https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Microsoft Certified: Power BI Data Analyst Associate** — Aug 2025
-Credential ID: `EX2SGZX7QE8Q`
+Credential ID: `EX2SGZX7QE8Q` — Aug 2025
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbaudran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaudran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mbaudran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaudran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="35%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mbaudran&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbaudran&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+
+</div>
 
 ---
 
-### Let's Connect
+### 🐍 Contribution Graph
 
-I'm open to internships in **Data Analytics | ML Engineering | BI Development**.
+<div align="center">
+<img src="https://raw.githubusercontent.com/mbaudran/mbaudran/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-<p align="center">
-  <a href="mailto:maelfelix18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maelfelix18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mbaudran">
-    <img src="https://img.shields.io/badge/LinkedIn-mbaudran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mbaudran">
-    <img src="https://img.shields.io/badge/GitHub-mbaudran-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <i>Let's build something with data.</i>
-</p>
+### 🤝 Let's Connect
+
+I'm open to internships in **Data Analytics | BI Development | Business Analysis**.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-maelfelix18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maelfelix18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mbaudran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbaudran)
+[![GitHub](https://img.shields.io/badge/GitHub-mbaudran-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbaudran)
+
+*Let's build something with data.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1117&height=100&section=footer" width="100%"/>
