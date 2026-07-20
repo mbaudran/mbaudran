@@ -8,15 +8,14 @@
 
 ---
 
-### 👋 Sobre mí
+### 👋 About me
 
-3rd year **Business Intelligence & Data Analytics** student at **LaSalle Barcelona**, where I'm also a **student ambassador and delegate**. I freelance for small Barcelona businesses building websites and automation workflows, and I'm currently exploring an offshore structure to formalize that work.
+3rd year **Business Intelligence & Data Analytics** student at **LaSalle Barcelona**, where I'm also a **student ambassador and delegate**. I freelance for small Barcelona businesses building websites and automation workflows.
 
 - 🔭 Currently building **Mas~IA**, an automation & web brand for Barcelona SMEs, and a full-stack **Data Analyst learning platform** for a mentee
-- 🎓 Awaiting response on a **ServiceNow Business Analyst internship** at Zurich Insurance
-- ✈️ Heading to **Tilburg University** (NL) for an exchange semester, Jan 2027
-- 🌍 Multilingual — Spanish, French, English
-- 📫 Reach me at **maelfelix18@gmail.com**
+- ✈️ Heading to **Tilburg University** for an exchange semester, Jan 2027
+- 🌍 Multilingual — Spanish, French, English, Portuguese
+- 📫 Reach me at **mael.masialabs@gmail.com**
 
 ---
 
