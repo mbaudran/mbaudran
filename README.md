@@ -155,8 +155,8 @@ My automation & web brand for Barcelona SMEs: landing pages, booking flows and W
 
 ## 🎓 Education & Certifications
 
-| | | |
-|---|---|---|
+| | Program | Dates |
+|:---:|---|---|
 | 🎓 | **LaSalle Barcelona** · Bachelor's in Business Intelligence & Data Analytics (3rd year) | Sep 2024 – Jun 2028 |
 | 🏅 | **Microsoft Power BI Data Analyst Professional Certificate** · Microsoft via Coursera | Aug 2025 |
 | 🇫🇷 | **Lycée Franco-Péruvien** · French Baccalaureate | 2008 – 2021 |
